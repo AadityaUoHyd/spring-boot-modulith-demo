@@ -113,3 +113,9 @@ public class OrderService {
 ### Summary
 
 Spring Boot Modulith is a powerful framework that allows developers to build modular monolithic applications, providing a structured approach to organize code and manage dependencies. It offers a balance between the simplicity of monolithic applications and the organization and maintainability benefits of modular design, while also enabling a smooth transition to microservices if needed.
+
+### Source to study from :
+- https://spring.io/projects/spring-modulith
+- https://spring.io/blog/2022/10/21/introducing-spring-modulith
+- https://www.baeldung.com/spring-modulith
+- https://docs.spring.io/spring-modulith/reference/fundamentals.html
